@@ -47,12 +47,3 @@ npm install nodemailer
 - La génération de mots de passe.
 - L’envoi d’emails avec Nodemailer.
 👨‍💻 Bonne pratique et amusez-vous avec Node.js !
-
----
-
-👉 Ce README est prêt à être utilisé directement dans ton projet.  
-
-
-👉 Ce README est prêt à être utilisé directement dans ton projet.  
-Veux-tu que je t’ajoute aussi des **exemples de code pour chaque exercice** afin que ton README serve de guide complet ?
-
